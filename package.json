@@ -1,0 +1,15 @@
+{
+  "name": "protein",
+  "description": "Angular application build and development.",
+  "version": "1.0.0",
+  "author": "Ryan Johnston <ryan@mediapixel.co.nz>",
+  "devDependencies": {
+    "co-render": "0.0.1",
+    "koa": "~0.6.1",
+    "koa-send": "~1.2.3",
+    "koa-livereload": "~0.1.23",
+    "lodash": "~2.4.1",
+    "jade": "~1.3.1",
+    "faye-websocket": "~0.7.2"
+  }
+}
